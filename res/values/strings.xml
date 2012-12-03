@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">android-webview</string>
+    <string name="hello_world">Hello webview</string>
+    <string name="menu">About</string>
+    <string name="button1">Webview</string>
+
+</resources>
